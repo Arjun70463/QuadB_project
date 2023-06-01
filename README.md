@@ -5,9 +5,11 @@ The project's components are:
 
 App.js: The Main component which configures the routing and produces the necessary components.
 
-Home: This is the Landing page of the Website. Displays a list of TV programmes. It traverses the data array and generates a summary of every TV show ID, complete with name, Image, and Each TV show has a Button(Link) component that can be used to access the paticular show's details page.
+Summary.js: This is the Landing page of the Website. Displays a list of TV programmes. It traverses the data array and generates a summary of every TV show ID, complete with name, Image, and Each TV show has a Button(Link) component that can be used to access the paticular show's details page.
 
-UserData: Displays the specific details of a chosen TV show. It gets the id parameter back.
+UserData.js: Displays the specific details of a chosen TV show. It gets the id parameter back.
+
+Here I have Used Material UI for styling the Website with tables.
 
 ## Getting Started with Create React App
 
